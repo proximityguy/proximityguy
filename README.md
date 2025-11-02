@@ -13,28 +13,35 @@
 
 ## 🚀 About Me
 
-```javascript
-const manish = {
-  pronouns: "He" | "Him",
-  code: ["JavaScript", "Java", "HTML", "CSS", "SQL"],
-  askMeAbout: ["web dev", "frontend", "backend", "UI/UX"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "jQuery"],
-      css: ["Bootstrap", "Tailwind", "Material UI"],
-      html: ["HTML5", "EJS"],
-    },
-    backEnd: {
-      java: ["Spring Boot", "Hibernate", "JDBC"],
-      js: ["Node.js", "Express"],
-    },
-    databases: ["MongoDB", "MySQL", "PostgreSQL"],
-    tools: ["Git", "GitHub", "VS Code", "IntelliJ IDEA", "Postman"],
-  },
-  currentFocus: "Building scalable web applications",
-  funFact: "I debug with console.log() more than I'd like to admit! 😄",
-};
-```
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<table>
+<tr>
+<td width="50%">
+
+### 👨‍💻 Developer Profile
+
+- 💼 **Role:** Full Stack Developer
+- 🎓 **Student** pursuing excellence in tech
+- 💻 **Code:** JavaScript, Java, HTML, CSS, SQL
+- 🎯 **Focus:** Web Development & Problem Solving
+- 🌱 **Learning:** React.js & Spring Boot
+- 🚀 **Goal:** Building scalable applications
+
+</td>
+<td width="50%">
+
+### 🛠️ Tech Arsenal
+
+**Frontend:** React, Bootstrap, Tailwind, jQuery  
+**Backend:** Node.js, Express, Spring Boot  
+**Database:** MongoDB, MySQL, PostgreSQL  
+**Tools:** Git, VS Code, IntelliJ, Postman  
+**Other:** REST APIs, MVC Architecture
+
+</td>
+</tr>
+</table>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -162,38 +169,27 @@ const manish = {
 
 ## 📈 Coding Activity
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=proximityguy&theme=radical&hide_border=true&bg_color=0D1117" alt="WakaTime Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=proximityguy&bg_color=0d1117&color=f75c7e&line=f75c7e&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+##  Work Experience & Learning Journey
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/proximityguy/proximityguy/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/proximityguy/proximityguy/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/proximityguy/proximityguy/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  
+| 🎯 Role | 📚 Focus | 🛠️ Technologies |
+|---------|----------|------------------|
+| **Full Stack Developer** | Web Development | React, Node.js, Spring Boot |
+| **Java Developer** | Backend Systems | Java, Hibernate, JDBC |
+| **Frontend Designer** | UI/UX | HTML5, CSS3, Bootstrap |
 
----
+</div>
 
-## 💼 Work Experience
-
-```java
-class Experience {
-    public static void main(String[] args) {
-        Developer manish = new Developer();
-        manish.setRole("Full Stack Developer");
-        manish.setExperience("Building awesome web applications");
-        manish.setPassion("Creating user-friendly interfaces");
-        manish.setGoal("Contributing to impactful projects");
-    }
-}
-```
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</p>
 
 ---
 
@@ -231,14 +227,6 @@ class Experience {
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
-</p>
-
----
-
-## 🎵 Spotify Playing
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=radical&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
 </p>
 
 ---
