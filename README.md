@@ -1,189 +1,91 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Manish+Kumar;Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+<!-- <h1 align="center">
+  🌟 Hi there, I'm <span style="color:#ff4b8b;">Manish</span> — An Enthusiastic AI/ML Learner & Full Stack Developer 👋
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=proximityguy&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/proximityguy?label=Followers&style=social" alt="followers" />
-</p>
+<h3 align="center">💻 Exploring AI • Building with Code • Innovating for Tomorrow 🚀</h3> -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=Hello+World!+👋;I+am+Manish+Kumar!;AI+%26+ML+Enthusiast+🤖;Full+Stack+Developer+💻;Always+Curious+Always+Learning+🚀" alt="Typing SVG" />
+</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
-</p>
+<h3 align="center">
+  Crafting Intelligent Solutions ✨ | Building Future Tech 🔥 | Learning Without Limits 📚
+</h3>
 
-## 🚀 About Me
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-<table>
-<tr>
-<td width="50%">
-
-### 👨‍💻 Developer Profile
-
-- 💼 **Role:** Full Stack Developer
-- 🎓 **Student** pursuing excellence in tech
-- 💻 **Code:** JavaScript, Java, HTML, CSS, SQL
-- 🎯 **Focus:** Web Development & Problem Solving
-- 🌱 **Learning:** React.js & Spring Boot
-- 🚀 **Goal:** Building scalable applications
-
-</td>
-<td width="50%">
-
-### 🛠️ Tech Arsenal
-
-**Frontend:** React, Bootstrap, Tailwind, jQuery  
-**Backend:** Node.js, Express, Spring Boot  
-**Database:** MongoDB, MySQL, PostgreSQL  
-**Tools:** Git, VS Code, IntelliJ, Postman  
-**Other:** REST APIs, MVC Architecture
-
-</td>
-</tr>
-</table>
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-### 🎯 Current Focus
-
-- 🔭 I'm currently working on **E-Commerce & Tech Shop Projects**
-- 🌱 I'm currently learning **React.js & Spring Boot**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development, Java, JavaScript**
-- 📫 How to reach me: **manishkumar@example.com**
-- ⚡ Fun fact: **I think I'm funny but I'm actually not! 😂**
-
-<br clear="right"/>
 
 ---
 
-## 🛠️ My Tech Stack
-
-### 💻 Programming Languages
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-</p>
-
-### 🎨 Frontend Development
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
-</p>
-
-### ⚙️ Backend Development
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate"/>
-</p>
-
-### 🗄️ Databases
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
-
-### 🛠️ Tools & Technologies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" alt="Maven"/>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=proximityguy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=proximityguy&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=proximityguy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=proximityguy&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=proximityguy&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</p>
-
----
-
-## 🎨 Featured Projects
+### 🧠 About Me  
 
 <div align="center">
-
-[![Tech Shop HTML5/CSS3](https://github-readme-stats.vercel.app/api/pin/?username=proximityguy&repo=tech-shop-htm5-css3&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/proximityguy/tech-shop-htm5-css3)
-[![Tech Shop Bootstrap 5](https://github-readme-stats.vercel.app/api/pin/?username=proximityguy&repo=tech-shop-bs5&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/proximityguy/tech-shop-bs5)
-
-[![JavaScript Programs](https://github-readme-stats.vercel.app/api/pin/?username=proximityguy&repo=js-programs&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/proximityguy/js-programs)
-[![E-Commerce](https://github-readme-stats.vercel.app/api/pin/?username=proximityguy&repo=e-commerce&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/proximityguy/e-commerce)
-
-[![Library Management System](https://github-readme-stats.vercel.app/api/pin/?username=proximityguy&repo=LibraryManagementSystem&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/proximityguy/LibraryManagementSystem)
-[![First Project](https://github-readme-stats.vercel.app/api/pin/?username=proximityguy&repo=FirstProject&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/proximityguy/FirstProject)
-
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding GIF"/>
 </div>
 
----
-
-## 🎯 Skills Visualization
+<p align="center">
+✨ Passionate about blending <b>Full Stack Development</b> and <b>Artificial Intelligence</b> to create smart, user-focused solutions.  
+Constantly learning, experimenting, and exploring new ways to turn ideas into impactful technology.
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,express,bootstrap,tailwind,sass" alt="Skills Row 1" /><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,vscode,idea,postman,maven,npm" alt="Skills Row 2" /><br/>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,jquery,figma,linux,windows,firebase,netlify,vercel,heroku" alt="Skills Row 3" />
+🎯 Currently: Working on AI/ML projects using Python  
+📖 Finalist at <b>Smart India Hackathon</b>  
+🌐 Contributing to open-source projects  
 </p>
 
 ---
 
-## 🏆 Achievements & Certifications
+### 🛠️ Technical Stack  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-Certified-orange?style=for-the-badge&logo=java" alt="Java Certified"/>
-  <img src="https://img.shields.io/badge/Web_Development-Expert-blue?style=for-the-badge&logo=html5" alt="Web Dev Expert"/>
-  <img src="https://img.shields.io/badge/Problem_Solver-Pro-green?style=for-the-badge&logo=leetcode" alt="Problem Solver"/>
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-red?style=for-the-badge&logo=github" alt="Open Source"/>
-</p>
+#### ⚛️ Frontend Development  
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img src="https://skillicons.dev/icons?i=react" width="90" height="90" style="max-width: 18%; height: auto;" alt="React" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="90" height="90" style="max-width: 18%; height: auto;" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html" width="90" height="90" style="max-width: 18%; height: auto;" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" width="90" height="90" style="max-width: 18%; height: auto;" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="90" height="90" style="max-width: 18%; height: auto;" alt="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="90" height="90" style="max-width: 18%; height: auto;" alt="Tailwind" />
+</div>  
+<br>
+
+#### ☕ Backend Development  
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img src="https://skillicons.dev/icons?i=java" width="90" height="90" style="max-width: 18%; height: auto;" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=spring" width="90" height="90" style="max-width: 18%; height: auto;" alt="Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="90" height="90" style="max-width: 18%; height: auto;" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="90" height="90" style="max-width: 18%; height: auto;" alt="C++" />
+</div>  
+<br>
+
+#### 🗄️ Databases  
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="100" height="100" style="max-width: 20%; height: auto;" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="100" height="100" style="max-width: 20%; height: auto;" alt="Microsoft SQL Server" />
+</div>  
+<br>
+
+#### 🤖 AI/ML (Currently Learning)
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px;">
+  <img src="https://skillicons.dev/icons?i=python" width="90" height="90" style="max-width: 18%; height: auto;" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="90" height="90" style="max-width: 18%; height: auto;" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="90" height="90" style="max-width: 18%; height: auto;" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="90" height="90" style="max-width: 18%; height: auto;" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="90" height="90" style="max-width: 18%; height: auto;" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="90" height="90" style="max-width: 18%; height: auto;" alt="Anaconda" />
+</div>  
+<br>
+<p align="center">🐍 <b>Exploring Machine Learning</b> • 🤖 <b>Building Smart Models</b> • 🧠 <b>Learning Deep Learning</b></p>
 
 ---
 
-## 📈 Coding Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=proximityguy&bg_color=0d1117&color=f75c7e&line=f75c7e&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
-##  Work Experience & Learning Journey
+## 💼 Work Experience & Learning Journey
 
 <div align="center">
-  
-| 🎯 Role | 📚 Focus | 🛠️ Technologies |
-|---------|----------|------------------|
-| **Full Stack Developer** | Web Development | React, Node.js, Spring Boot |
-| **Java Developer** | Backend Systems | Java, Hibernate, JDBC |
-| **Frontend Designer** | UI/UX | HTML5, CSS3, Bootstrap |
+
+| 🏢 Organization | 💼 Role | ⏱️ Duration | 🛠️ Focus & Tools |
+|----------------|----------|--------------|------------------|
+| **Quickb AI Solutions** | UI/UX Designer | 3 Months | Designed intuitive AI-powered interfaces |
+| **Paritechsoft** | Java Backend Intern | 6 Months | Developed RESTful APIs & backend systems |
 
 </div>
 
@@ -193,54 +95,87 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:manishkumar@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://instagram.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
-  </a>
-</p>
+### 🎓 Education  
+- 📚 **MCA (Pursuing)** – Lovely Professional University  
+- 🎓 **BCA (2023)** – Built a strong foundation in computer applications  
 
 ---
 
-## 💡 Random Dev Quote
+### 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
+<div align="center">
+  <picture>
+    <source media="(max-width:600px)" srcset="https://github-readme-stats.vercel.app/api?username=proximityguy&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&card_width=300" />
+    <img src="https://github-readme-stats.vercel.app/api?username=proximityguy&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
+  </picture>
+  
+  <picture>
+    <source media="(max-width:600px)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=proximityguy&theme=radical&hide_border=false&card_width=300" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=proximityguy&theme=radical&hide_border=false" height="180em" />
+  </picture>
+  
+  <picture>
+    <source media="(max-width:600px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=proximityguy&layout=compact&theme=radical&card_width=300" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proximityguy&layout=compact&theme=radical" height="180em" />
+  </picture>
+</div>
 
 ---
 
-## 😂 Here's a Random Dev Joke for You!
+### 🤝 Let’s Connect  
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
-</p>
+<div align="center">
+  <a href="mailto:manishgenius2513@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/proximityguy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
 
 ---
+
+<h3 align="center">
+  ✨ “Code. Create. Contribute. Continuously.” ✨  
+</h3>
+
+
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+---
+
+
+<div align="center">
+
+  <h2>😁 Random Dev Joke</h2>
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" 
+       alt="Random Dev Joke" width="600" />
+
+
+
+  <h2>💡 Quote of the Day</h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" 
+       alt="Random Dev Quote" width="600" />
+
+</div>
+
+
+---
+
+
+<h3 align="center">✨ Show some ❤️ by starring my repositories & sharing ideas! 🚀</h3>
+
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=proximityguy&label=Profile%20views&color=F75C7E&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/proximityguy?label=Followers&style=social" alt="Followers" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</p>
-
-<h3 align="center">
-  Show some ❤️ by starring some of the repositories!
-</h3>
-
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
-  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" alt="Makes People Smile"/>
 </p>
